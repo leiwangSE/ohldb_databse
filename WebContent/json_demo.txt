@@ -1,0 +1,16 @@
+{ 
+  "TimeStamp": "1602659086", 
+  "RivianPN": "S0002", 
+  "JulianDate": "15220", 
+  "SerialNumber": "PT00001314", 
+  "IsTestPass": false, 
+  "cameraPosition": { 
+    "rotationYaw": -0.1427205900014383, 
+    "rotationPitch": 0.10641959321769616, 
+    "rotationRoll": 0.0046324585548323865, 
+    "locationX": -8.8967075940954228, 
+    "locationY": -6.180881120975962, 
+    "locationZ": 28.494181203192852 
+  }, 
+  "Base64Image": "/9j/4AAQSkZJRgABAQEAYABg....." 
+} 
