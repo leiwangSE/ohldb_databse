@@ -9,5 +9,6 @@
 </head>
 <body>
      This is display page.
+     Display the image.
 </body>
 </html>
