@@ -11,5 +11,6 @@
      This is display page.
      Display the image.
      Edit another.
+     Edit again.
 </body>
 </html>
